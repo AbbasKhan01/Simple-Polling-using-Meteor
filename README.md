@@ -1,4 +1,4 @@
-react-flux-cart
+simple-shopping-cart-react-flux
 ===============
 
-Code for the tutorial by @kenwheeler: Create a Shopping Cart Using React.js and Flux
+Code for the web application simple Shopping Cart Using React.js and Flux
