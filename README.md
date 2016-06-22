@@ -1,2 +1,2 @@
-Simple Polling using Meteor.
+Simple Polling application using MeteorJS.
 
